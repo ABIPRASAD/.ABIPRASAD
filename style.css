@@ -1,51 +1,73 @@
-.propic{
-   
-}
-.body{
+.body {
     background-color: rgb(224, 246, 251);
+    padding-bottom: 7rem;
+    padding-top: 5rem;
 }
-#glass{
-    background-color:rgb(219, 248, 255);
-    border-radius:1rem;
+
+#glass {
+    background-color: rgb(224, 245, 255);
+    border-radius: 1rem;
 }
-#about{
+
+#about {
     background-color: rgb(190, 236, 248);
 }
-.card1{
+
+.card1 {
     background-color: rgb(230, 250, 255);
 }
-.sec{
+
+.sec {
     background-color: rgb(213, 245, 253);
 }
-.card-img-top{
-    height:12rem;
+
+.card-img-top {
+    height: 12rem;
 }
-span{
-    font-size:2rem;
-    font-family:monospace;
+
+#marque {
+    font-size: 2rem;
+    font-family: monospace;
     font-style: initial;
-    font-weight:2rem;
+    font-weight: 2rem;
     background-color: rgb(59, 64, 65);
     color: white;
-    border:0.1rem solid rgb(52, 113, 109); 
+    border: 0.1rem solid rgb(52, 113, 109);
 }
-.copy{
-    color:rgb(212, 11, 11);
+
+.copy {
+    color: rgb(212, 11, 11);
     margin-left: 2rem;
-    
+
 }
-.copy:hover{
+
+.copy:hover {
     color: rgb(255, 255, 255);
 }
-.social{
+
+.social {
     text-decoration: none;
-    width:3rem;
-    border:0.5rem solid rgb(8, 199, 209);
-   margin-left:2rem;
+    width: 3rem;
+    border: 0.2rem solid rgb(255, 255, 255);
 }
-.footer{
-    background-color: rgb(2, 52, 63);
+
+.footer {
+    background-color: rgb(56, 62, 64);
 }
-li{
-  
+
+.aboutpro {
+    width: 10rem;
+    height: 13rem;
+    padding-bottom: 2rem;
+}
+
+#skill {
+    color: rgb(83, 10, 10);
+    font-size: 1.21rem;
+}
+
+.nav-link:hover {
+    background-color: rgb(22, 19, 19);
+    cursor: pointer;
+    border: solid white;
 }
